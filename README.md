@@ -14,6 +14,6 @@ Alternatively, you can download and build ImageMagick from source.
 For more information, see the [ImageMagick documentation](https://www.imagemagick.org/script/index.php).
 
 Once ImageMagick is installed, you can use the script by passing the source directory and destination directory as command line arguments:
-```python image_converter.py /path/to/src/dir /path/to/dst/dir```
+```python imgconv.py /path/to/src/dir /path/to/dst/dir```
 
 The script will create the destination directory if it doesn't exist, and then it will iterate through all the files in the source directory and convert them in parallel using the `multiprocessing` module.
