@@ -1,4 +1,4 @@
-# Batch_Img_Convert using ImageMagick
+# Batch Img Convert using Python & ImageMagick
 Batch convert a directory full of images to a new folder as jpegs. 
 Tested with `ImageMagick-7.1.0` and Windows 11.
 Untested with \*nix but might work.
