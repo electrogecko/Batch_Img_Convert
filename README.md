@@ -1,7 +1,5 @@
 # Batch_Img_Convert using ImageMagick
-Uses `multiprocessing`.
-Takes any image format readable by ImageMagick.
-For now, output image format is defaulted to JPG.
+Batch convert a directory full of images to a new folder as jpegs. 
 Tested with `ImageMagick-7.1.0` and Windows 11.
 Untested with \*nix but might work.
 
